@@ -1,0 +1,28 @@
+.element {
+    border-top: 3px #EB5353 dotted;
+    border-right: 3px #F9D923 double;
+    border-bottom: 3px #36AE7C dashed;
+    border-left: 3px #187498 solid;
+    width: 500px;
+    height: 200px;
+}
+
+.element1 {
+    font-size: 25px;
+    background-color: skyblue;
+    border-radius: 10px 30px 0px 90px;
+    padding: 100px;
+}
+
+.element2 {
+    border-radius: 55% 45% 0% 100% / 0% 47% 53% 100% ;
+    background-color: red;
+    padding: 100px;
+}
+.element3 {
+    box-shadow: 10px 10px 100px 100px #0077ff;
+    background-color: #FF5733;
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+    padding: 100px;
+
+}

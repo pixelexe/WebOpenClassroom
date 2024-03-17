@@ -1,0 +1,36 @@
+.classe{
+    color : red;
+}
+.fontSize{
+    font-size : 20px;
+}
+.fontFamily{
+    font-family : "roboto";
+}
+.fontFamily2{
+    font-family : "roboto",sans-serif;
+}
+
+.bold1{
+    font-weight : bold;
+    text-align: right;
+    text-decoration: underline;
+    background-color: red;
+}
+.normal1{
+    color : brown;
+    font-weight : normal;
+    text-align: center;
+    text-decoration: line-through;
+    background-image: URL(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png);
+}
+.thin1{
+    font-weight : thin;
+    text-align: left;
+    text-decoration: overline;
+    background: linear-gradient(90deg, #8360c3, #2ebf91);
+}
+.justify1{
+    text-align: justify;
+    color: blue;
+}
